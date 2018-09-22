@@ -8,6 +8,9 @@ guarantees. If the code sample does not compile (because we are illustrating an 
 error message might be different in newer versions. In some cases, the code will compile with newer
 versions!
 
+The files are organized into directories by unit and module, and then named starting with the time
+in the video where we begin discussing that example.
+
 ## License
 
 The code examples are dual-licensed under Apache 2.0 or MIT; you may choose which license. The text
