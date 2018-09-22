@@ -11,6 +11,10 @@ versions!
 The files are organized into directories by unit and module, and then named starting with the time
 in the video where we begin discussing that example.
 
+In the videos, we disabled unused code warnings to avoid cluttering up the screen. You'll likely
+see warnings about unused variables, enum variants, and fields when you run these examples with
+`cargo run`.
+
 ## License
 
 The code examples are dual-licensed under Apache 2.0 or MIT; you may choose which license. The text
