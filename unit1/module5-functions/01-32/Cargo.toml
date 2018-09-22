@@ -1,0 +1,6 @@
+[package]
+name = "fn-01-birthday"
+version = "0.1.0"
+authors = ["A new Rust developer <rust@example.com>"]
+
+[dependencies]
