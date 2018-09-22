@@ -1,6 +1,6 @@
 # Rust in Motion
 
-This repo contains the code samples we discuss in the [Rust in Motion video course](https://livevideo.manning.com/module/42_1_1/rust-in-motion/introduction-to-the-course-and-rust-syntax/introduction).
+This repo contains the code samples we discuss in the [Rust in Motion video course](https://livevideo.manning.com/course/42/rust-in-motion).
 
 Unless otherwise noted, the code was written with Rust 1.24.1. If the code sample compiles, it will
 continue to compile with newer versions of the Rust compiler, thanks to Rust's stability
