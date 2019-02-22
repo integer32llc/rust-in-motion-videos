@@ -1,0 +1,4 @@
+[cargo-new]
+name = "A new Rust developer"
+email = "rust@example.com"
+
