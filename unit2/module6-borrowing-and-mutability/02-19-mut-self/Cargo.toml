@@ -1,0 +1,6 @@
+[package]
+name = "mutability"
+version = "0.1.0"
+authors = ["A new Rust developer <rust@example.com>"]
+
+[dependencies]
