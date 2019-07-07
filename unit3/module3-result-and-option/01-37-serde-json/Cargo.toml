@@ -1,0 +1,9 @@
+[package]
+name = "result-and-option"
+version = "0.1.0"
+authors = ["A new Rust developer <rust@example.com>"]
+
+[dependencies]
+serde = "=1.0.78"
+serde_json = "=1.0.27"
+serde_derive = "=1.0.78"
