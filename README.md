@@ -20,3 +20,7 @@ see warnings about unused variables, enum variants, and fields when you run thes
 
 The code examples are dual-licensed under Apache 2.0 or MIT; you may choose which license. The text
 of the licenses appear in the LICENSE-APACHE and LICENSE-MIT files.
+
+
+| ✅ |
+| ❌ |
