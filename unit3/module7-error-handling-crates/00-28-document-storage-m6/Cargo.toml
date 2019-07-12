@@ -1,0 +1,6 @@
+[package]
+name = "error-crates"
+version = "0.1.0"
+authors = ["Manning Video Series"]
+
+[dependencies]

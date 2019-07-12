@@ -1,0 +1,8 @@
+[package]
+name = "error-crates"
+version = "0.1.0"
+authors = ["Manning Video Series"]
+
+[dependencies]
+error-chain = "=0.12.0"
+backtrace = "=0.3.18"
