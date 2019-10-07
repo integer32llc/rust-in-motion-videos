@@ -1,11 +1,11 @@
 #[derive(Debug)]
-pub struct CarPool {
+struct CarPool {
     passengers: Vec<String>,
 }
 
 impl CarPool {
     /// Add the named passenger to the carpool
-    pub fn pick_up(&mut self, name: String) {
+    fn pick_up(&mut self, name: String) {
         self.passengers.push(name);
     }
 }
